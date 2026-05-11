@@ -1,0 +1,3 @@
+    """
+    This is a class for calculating the area of different shapes, including circle, sphere, cylinder, sector and annulus.
+    """

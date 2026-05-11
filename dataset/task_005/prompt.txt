@@ -1,0 +1,3 @@
+    """
+    This is a class as an student assessment system, which supports add student, add course score, calculate GPA, and other functions for students and courses.
+    """

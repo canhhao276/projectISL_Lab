@@ -1,0 +1,3 @@
+    """
+    This is a class for parsing command line arguments to a dictionary.
+    """

@@ -1,0 +1,3 @@
+    """
+    The Arrangement class provides permutation calculations and selection operations for a given set of data elements.
+    """

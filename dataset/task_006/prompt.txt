@@ -1,0 +1,3 @@
+    """
+    This class is an automatic guitar simulator that can interpret and play based on the input guitar sheet music.
+    """
